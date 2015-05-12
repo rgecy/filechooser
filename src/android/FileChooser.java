@@ -1,6 +1,6 @@
 package com.cesidiodibenedetto.filechooser;
 
-import com.BeaufortCityGuide.WazeThemeInstaller.R
+import com.BeaufortCityGuide.WazeThemeInstaller.R;
 import java.util.HashMap;
 import java.util.Map;
 
