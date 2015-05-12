@@ -16,7 +16,7 @@
 
 package com.ipaulpro.afilechooser;
 
-import com.BeaufortCityGuide.WazeThemeInstaller.R
+import com.BeaufortCityGuide.WazeThemeInstaller.R;
 import android.app.Activity;
 import android.os.Bundle;
 import android.os.Environment;
