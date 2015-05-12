@@ -1,7 +1,7 @@
 
 package com.ianhanniballake.localstorage;
 
-import com.BeaufortCityGuide.WazeThemeInstaller.R
+import com.BeaufortCityGuide.WazeThemeInstaller.R;
 import android.content.res.AssetFileDescriptor;
 import android.database.Cursor;
 import android.database.MatrixCursor;
