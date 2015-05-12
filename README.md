@@ -16,9 +16,12 @@ The core pieces of the code were taken from https://github.com/iPaulPro/aFileCho
 cordova plugin add https://github.com/cdibened/filechooser.git
 ```
 
+### Phonegap Build
+If you are trying to use this plugin with PG Build you will need to fork the plugin and edit the files in the next step, then submit the plugin the PGB for your private use.
+
 ### Configuration
 
-You will have to `import your.package.name.R` into the following java files.
+You will have to `import your.package.name.R` into the following java files. 
 
 ```
     FileChooser.java 
